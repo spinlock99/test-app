@@ -1,9 +1,9 @@
 {
-  "short_name": "NAME",
-  "name": "NAME",
+  "short_name": "Test app",
+  "name": "Test app",
   "icons": [
     {
-      "src":"ICON",
+      "src":"https://process.filestackapi.com/resize=width:144/m7pDZoSSSRiglZwho63N",
       "sizes": "144x144",
       "type": "image/png"
     }
